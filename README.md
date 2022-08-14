@@ -3,6 +3,7 @@
 <p> List of my certificates: </p>
 <p> - SQL </p>
 <p> - Python </p>
+<p> - Power BI </p>
 
 
 ## Microsoft:
