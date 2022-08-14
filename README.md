@@ -4,10 +4,11 @@
 <p> - SQL </p>
 <p> - Python </p>
 
-## Microsoft:
-  - SQL - [MTA 98-364](https://github.com/AigulTok/Certificates/blob/main/Microsoft_Certified_Professional_Certificate_SQL.pdf) 
 
-  ![SQL](https://github.com/AigulTok/Certificates/blob/main/Microsoft_Certified_Professional_Certificate_SQL.PNG)
+## Microsoft:
+- SQL - [MTA 98-364](https://github.com/AigulTok/Certificates/blob/main/Microsoft_Certified_Professional_Certificate_SQL.pdf) 
+
+![SQL](https://github.com/AigulTok/Certificates/blob/main/Microsoft_Certified_Professional_Certificate_SQL.PNG)
     
 - Understanding core database concepts
 - Create database objects
@@ -15,13 +16,13 @@
 - Understand data storage
 - Administer a database
 
-  - SQL - [MTA 98-364](https://www.credly.com/badges/21b4f375-936a-4676-b0ec-be4f4f20686d?source=linked_in_profile) 
+- SQL - [MTA 98-364](https://www.credly.com/badges/21b4f375-936a-4676-b0ec-be4f4f20686d?source=linked_in_profile) 
 
-  ![SQL](https://github.com/AigulTok/Certificates/blob/main/credly_sql.png)
+![SQL](https://github.com/AigulTok/Certificates/blob/main/credly_sql.png)
 
-  - Python - [MTA 98-381](https://github.com/AigulTok/Certificates/blob/main/Microsoft_Certified_Professional_Certificate_Python.pdf) 
+- Python - [MTA 98-381](https://github.com/AigulTok/Certificates/blob/main/Microsoft_Certified_Professional_Certificate_Python.pdf) 
 
-  ![Python](https://github.com/AigulTok/Certificates/blob/main/Microsoft_Certified_Professional_Certificate_Python.PNG)
+![Python](https://github.com/AigulTok/Certificates/blob/main/Microsoft_Certified_Professional_Certificate_Python.PNG)
 
 - Perform Operations using Data Types and Operators
 - Control Flow with Decisions and Loops
@@ -30,15 +31,34 @@
 - Perform Troubleshooting and Error Handling
 - Perform Operations Using Modules and Tools
 
-  - Python - [MTA 98-381](https://www.credly.com/badges/fb3ac42f-5bf3-4cdf-904c-bf3620d46908/linked_in?t=rcudi9) 
+- Python - [MTA 98-381](https://www.credly.com/badges/fb3ac42f-5bf3-4cdf-904c-bf3620d46908/linked_in?t=rcudi9) 
 
-  ![Python](https://github.com/AigulTok/Certificates/blob/main/credly_python.png)
-
+![Python](https://github.com/AigulTok/Certificates/blob/main/credly_python.png)
 
 
 ## DataCamp
 
 ![SQL](https://github.com/AigulTok/Certificates/blob/main/DataCamp%20certificate%20Introduction%20to%20SQL.pdf)
+![SQL](https://github.com/AigulTok/Certificates/blob/main/DataCamp_certificate_Introduction_to_SQL.PNG)
+
+![SQL](https://github.com/AigulTok/Certificates/blob/main/Datacamp%20certificate%20Joining%20Data%20in%20SQL.pdf)
+![SQL](https://github.com/AigulTok/Certificates/blob/main/Datacamp_certificate_Joining_Data_in_SQL.PNG)
+
+![SQL](https://github.com/AigulTok/Certificates/blob/main/DataCamp%20certificate%20Intermediate%20SQL.pdf)
+![SQL](https://github.com/AigulTok/Certificates/blob/main/DataCamp_certificate_Intermediate_SQL.PNG)
+
+![SQL](https://github.com/AigulTok/Certificates/blob/main/DataCamp%20certificate%20PostgreSQL%20Summary%20Stats%20and%20Window.pdf)
+![SQL](https://github.com/AigulTok/Certificates/blob/main/DataCamp_certificate_PostgreSQL_Summary_Stats_and_Window.PNG)
+
+![SQL](https://github.com/AigulTok/Certificates/blob/main/DataCamp%20certificate%20Functions%20for%20Manipulating%20Data%20in%20PostgreSQL.pdf)
+![SQL](https://github.com/AigulTok/Certificates/blob/main/DataCamp_certificate_Functions_for_Manipulating_Data_in_PostgreSQL.PNG)
+
+![Python](https://github.com/AigulTok/Certificates/blob/main/DataCamp%20certificate%20Introduction%20to%20Python.pdf)
+![Python](https://github.com/AigulTok/Certificates/blob/main/DataCamp_certificate_Introduction_to_Python.PNG)
+
+![Python](https://github.com/AigulTok/Certificates/blob/main/DataCamp%20certificate%20Intermediate%20Python.pdf)
+![Python](https://github.com/AigulTok/Certificates/blob/main/DataCamp_certificate_Intermediate_Python.PNG)
+
 
 ## DataBoom
 
