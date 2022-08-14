@@ -6,9 +6,11 @@
 
 ## Microsoft
 
-![MTA 98-364](https://github.com/AigulTok/Certificates/blob/main/Microsoft_Certified_Professional_Certificate_SQL.pdf)
+## Microsoft:
+  - SQL - [MTA 98-364](https://github.com/AigulTok/Certificates/blob/main/Microsoft_Certified_Professional_Certificate_SQL.pdf) 
+  - Python - [MTA 98-381](https://github.com/AigulTok/Certificates/blob/main/Microsoft_Certified_Professional_Certificate_Python.pdf) 
 
-![MTA 98-381](https://github.com/AigulTok/Certificates/blob/main/Microsoft_Certified_Professional_Certificate_Python.pdf)
+
 
 ## DataCamp
 
