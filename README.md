@@ -17,7 +17,7 @@
 - Understand data storage
 - Administer a database
 
-- SQL - [MTA 98-364 badge](https://www.credly.com/badges/21b4f375-936a-4676-b0ec-be4f4f20686d?source=linked_in_profile) 
+SQL - [MTA 98-364 badge](https://www.credly.com/badges/21b4f375-936a-4676-b0ec-be4f4f20686d?source=linked_in_profile) 
 
 ![SQL](https://github.com/AigulTok/Certificates/blob/main/credly_sql.png)
 
@@ -32,7 +32,7 @@
 - Perform Troubleshooting and Error Handling
 - Perform Operations Using Modules and Tools
 
-- Python - [MTA 98-381 badge](https://www.credly.com/badges/fb3ac42f-5bf3-4cdf-904c-bf3620d46908/linked_in?t=rcudi9) 
+Python - [MTA 98-381 badge](https://www.credly.com/badges/fb3ac42f-5bf3-4cdf-904c-bf3620d46908/linked_in?t=rcudi9) 
 
 ![Python](https://github.com/AigulTok/Certificates/blob/main/credly_python.png)
 
