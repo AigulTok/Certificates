@@ -8,8 +8,23 @@
   - SQL - [MTA 98-364](https://github.com/AigulTok/Certificates/blob/main/Microsoft_Certified_Professional_Certificate_SQL.pdf) 
 
   ![SQL](https://github.com/AigulTok/Certificates/blob/main/Microsoft_Certified_Professional_Certificate_SQL.PNG)
+    
+    - Understanding core database concepts
+    - Create database objects
+    - Manipulate data
+    - Understand data storage
+    - Administer a database
 
   - Python - [MTA 98-381](https://github.com/AigulTok/Certificates/blob/main/Microsoft_Certified_Professional_Certificate_Python.pdf) 
+
+  ![Python](https://github.com/AigulTok/Certificates/blob/main/Microsoft_Certified_Professional_Certificate_Python.PNG)
+
+    - Perform Operations using Data Types and Operators
+    - Control Flow with Decisions and Loops
+    - Perform Input and Output Operations
+    - Document and Structure Code
+    - Perform Troubleshooting and Error Handling
+    - Perform Operations Using Modules and Tools
 
 
 
