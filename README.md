@@ -38,25 +38,26 @@
 
 ## DataCamp
 
-![SQL](https://github.com/AigulTok/Certificates/blob/main/DataCamp_certificate_Introduction_to_SQL.pdf)
+- SQL - [Introduction to SQL](https://github.com/AigulTok/Certificates/blob/main/DataCamp_certificate_Introduction_to_SQL.pdf)
 ![SQL](https://github.com/AigulTok/Certificates/blob/main/DataCamp_certificate_Introduction_to_SQL.PNG)
 
-![SQL](https://github.com/AigulTok/Certificates/blob/main/Datacamp_certificate_Joining_Data_in_SQL.pdf)
+- SQL - [Joining Data in SQL](https://github.com/AigulTok/Certificates/blob/main/Datacamp_certificate_Joining_Data_in_SQL.pdf)
 ![SQL](https://github.com/AigulTok/Certificates/blob/main/Datacamp_certificate_Joining_Data_in_SQL.PNG)
 
-![SQL](https://github.com/AigulTok/Certificates/blob/main/DataCamp_certificate_Intermediate_SQL.pdf)
+- SQL - [Intermediate SQL](https://github.com/AigulTok/Certificates/blob/main/DataCamp_certificate_Intermediate_SQL.pdf)
+- SQL - [DataCamp](https://www.https://www.datacamp.com/statement-of-accomplishment/course/4e8d90e264de29b334715940adbb9b62a8e82e87) 
 ![SQL](https://github.com/AigulTok/Certificates/blob/main/DataCamp_certificate_Intermediate_SQL.PNG)
 
-![SQL](https://github.com/AigulTok/Certificates/blob/main/DataCamp_certificate_PostgreSQL_Summary_Stats_and_Window.pdf)
-![SQL](https://github.com/AigulTok/Certificates/blob/main/DataCamp_certificate_PostgreSQL_Summary_Stats_and_Window.PNG)
+- SQL - [PostgreSQL Summary Stats and Window Functions](https://github.com/AigulTok/Certificates/blob/main/DataCamp_certificate_PostgreSQL_Summary_Stats_and_Window_Functions.pdf)
+![SQL](https://github.com/AigulTok/Certificates/blob/main/DataCamp_certificate_PostgreSQL_Summary_Stats_and_Window_Functions.PNG)
 
-![SQL](https://github.com/AigulTok/Certificates/blob/main/DataCamp_certificate_Functions_for_Manipulating_Data_in_PostgreSQL.pdf)
+- SQL - [Functions for Manipulating Data in PostgreSQL](https://github.com/AigulTok/Certificates/blob/main/DataCamp_certificate_Functions_for_Manipulating_Data_in_PostgreSQL.pdf)
 ![SQL](https://github.com/AigulTok/Certificates/blob/main/DataCamp_certificate_Functions_for_Manipulating_Data_in_PostgreSQL.PNG)
 
-![Python](https://github.com/AigulTok/Certificates/blob/main/DataCamp_certificate_Introduction_to_Python.pdf)
+- Python - [Introduction to Python](https://github.com/AigulTok/Certificates/blob/main/DataCamp_certificate_Introduction_to_Python.pdf)
 ![Python](https://github.com/AigulTok/Certificates/blob/main/DataCamp_certificate_Introduction_to_Python.PNG)
 
-![Python](https://github.com/AigulTok/Certificates/blob/main/DataCamp_certificate_Intermediate_Python.pdf)
+- Python - [Intermediate Python](https://github.com/AigulTok/Certificates/blob/main/DataCamp_certificate_Intermediate_Python.pdf)
 ![Python](https://github.com/AigulTok/Certificates/blob/main/DataCamp_certificate_Intermediate_Python.PNG)
 
 
