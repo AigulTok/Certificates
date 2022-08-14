@@ -38,25 +38,25 @@
 
 ## DataCamp
 
-![SQL](https://github.com/AigulTok/Certificates/blob/main/DataCamp%20certificate%20Introduction%20to%20SQL.pdf)
+![SQL](https://github.com/AigulTok/Certificates/blob/main/DataCamp_certificate_Introduction_to_SQL.pdf)
 ![SQL](https://github.com/AigulTok/Certificates/blob/main/DataCamp_certificate_Introduction_to_SQL.PNG)
 
-![SQL](https://github.com/AigulTok/Certificates/blob/main/Datacamp%20certificate%20Joining%20Data%20in%20SQL.pdf)
+![SQL](https://github.com/AigulTok/Certificates/blob/main/Datacamp_certificate_Joining_Data_in_SQL.pdf)
 ![SQL](https://github.com/AigulTok/Certificates/blob/main/Datacamp_certificate_Joining_Data_in_SQL.PNG)
 
-![SQL](https://github.com/AigulTok/Certificates/blob/main/DataCamp%20certificate%20Intermediate%20SQL.pdf)
+![SQL](https://github.com/AigulTok/Certificates/blob/main/DataCamp_certificate_Intermediate_SQL.pdf)
 ![SQL](https://github.com/AigulTok/Certificates/blob/main/DataCamp_certificate_Intermediate_SQL.PNG)
 
-![SQL](https://github.com/AigulTok/Certificates/blob/main/DataCamp%20certificate%20PostgreSQL%20Summary%20Stats%20and%20Window.pdf)
+![SQL](https://github.com/AigulTok/Certificates/blob/main/DataCamp_certificate_PostgreSQL_Summary_Stats_and_Window.pdf)
 ![SQL](https://github.com/AigulTok/Certificates/blob/main/DataCamp_certificate_PostgreSQL_Summary_Stats_and_Window.PNG)
 
-![SQL](https://github.com/AigulTok/Certificates/blob/main/DataCamp%20certificate%20Functions%20for%20Manipulating%20Data%20in%20PostgreSQL.pdf)
+![SQL](https://github.com/AigulTok/Certificates/blob/main/DataCamp_certificate_Functions_for_Manipulating_Data_in_PostgreSQL.pdf)
 ![SQL](https://github.com/AigulTok/Certificates/blob/main/DataCamp_certificate_Functions_for_Manipulating_Data_in_PostgreSQL.PNG)
 
-![Python](https://github.com/AigulTok/Certificates/blob/main/DataCamp%20certificate%20Introduction%20to%20Python.pdf)
+![Python](https://github.com/AigulTok/Certificates/blob/main/DataCamp_certificate_Introduction_to_Python.pdf)
 ![Python](https://github.com/AigulTok/Certificates/blob/main/DataCamp_certificate_Introduction_to_Python.PNG)
 
-![Python](https://github.com/AigulTok/Certificates/blob/main/DataCamp%20certificate%20Intermediate%20Python.pdf)
+![Python](https://github.com/AigulTok/Certificates/blob/main/DataCamp_certificate_Intermediate_Python.pdf)
 ![Python](https://github.com/AigulTok/Certificates/blob/main/DataCamp_certificate_Intermediate_Python.PNG)
 
 
