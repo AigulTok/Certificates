@@ -4,10 +4,11 @@
 <p> - SQL </p>
 <p> - Python </p>
 
-## Microsoft
-
 ## Microsoft:
   - SQL - [MTA 98-364](https://github.com/AigulTok/Certificates/blob/main/Microsoft_Certified_Professional_Certificate_SQL.pdf) 
+
+  ![SQL](https://github.com/AigulTok/Certificates/blob/main/Microsoft_Certified_Professional_Certificate_SQL.png)
+
   - Python - [MTA 98-381](https://github.com/AigulTok/Certificates/blob/main/Microsoft_Certified_Professional_Certificate_Python.pdf) 
 
 
