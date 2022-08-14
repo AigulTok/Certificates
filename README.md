@@ -63,10 +63,13 @@
 ## DataBoom
 
 - SQL - [SQL Fundamentals for Data Analytics with Microsoft SQL Server and Management Studio](https://github.com/AigulTok/Certificates/blob/main/DataBoom_certificate_SQL_Basic.pdf)
-![SQL]()
+![SQL](https://github.com/AigulTok/Certificates/blob/main/DataBoom_certificate_SQL_Fundamentals.PNG)
 
 - SQL - [Advanced SQL for Data Analytics with Microsoft SQL Server and Management Studio](https://github.com/AigulTok/Certificates/blob/main/DataBoom_certificate_SQL_Advanced.pdf)
-![SQL]()
+![SQL](https://github.com/AigulTok/Certificates/blob/main/DataBoom_certificate_Advanced_SQL.PNG)
 
 - Python - [Python for Data Science](https://github.com/AigulTok/Certificates/blob/main/DataBoom_certificate_Python.pdf)
-![Python]()
+![Python](https://github.com/AigulTok/Certificates/blob/main/DataBoom_certificate_Python_for_Data_Science.PNG)
+
+- Power BI - [Power BI](https://github.com/AigulTok/Certificates/blob/main/DataBoom_BI_Workshop.pdf)
+![Power BI](https://github.com/AigulTok/Certificates/blob/main/DataBoom_BI_Workshop.PNG)
