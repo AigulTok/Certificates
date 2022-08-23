@@ -1,7 +1,7 @@
 # Certificates
 
-##List of my certificates:
-###- SQL
+## List of my certificates:
+### - SQL
   - Microsoft
     - MTA 98-364: Database Fundamentals
   - DataCamp
@@ -14,7 +14,7 @@
     - Top student: SQL fundamentals for Data Analytics with Microsoft SQL Server and Management Studio
     - Top student: Advanced SQL for Data Analytics with Microsoft SQL Server and Management Studio
 
-###- Python
+### - Python
   - Microsoft
     - MTA 98-381: Introduction to Programming Using Python
   - DataCamp
@@ -22,7 +22,7 @@
     - Intermediate Python
   - DataBoom
     - Python for Data Science
-###- Power BI
+### - Power BI
   - DataBoom
     - four-day workshop from KZ BI Community
 
