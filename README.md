@@ -1,9 +1,30 @@
 # Certificates
 
-<p> List of my certificates: </p>
-<p> - SQL </p>
-<p> - Python </p>
-<p> - Power BI </p>
+##List of my certificates:
+###- SQL
+  - Microsoft
+    - MTA 98-364: Database Fundamentals
+  - DataCamp
+    - Introduction to SQL
+    - Joining Data in SQL
+    - Intermediate SQL
+    - PostgreSQL Summary Stat and Window Functions
+    - Functions for Manipulating Data in PostgreSQL
+  - DataBoom
+    - Top student: SQL fundamentals for Data Analytics with Microsoft SQL Server and Management Studio
+    - Top student: Advanced SQL for Data Analytics with Microsoft SQL Server and Management Studio
+
+###- Python
+  - Microsoft
+    - MTA 98-381: Introduction to Programming Using Python
+  - DataCamp
+    - Introduction to Python
+    - Intermediate Python
+  - DataBoom
+    - Python for Data Science
+###- Power BI
+  - DataBoom
+    - four-day workshop from KZ BI Community
 
 
 ## Microsoft:
